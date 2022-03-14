@@ -6,9 +6,9 @@ It concludes that a handful of microbial specifies (also called operational taxo
 
 It uses a responsive HTML view presenting the horizontal bar chart . a bubble chart and a gauge to depict the results.
 
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) |
+| ![img](images/top.PNG) |
 | ------------------------------------------------------------ |
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) |
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) |
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png) |
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png) |
+| ![img](images/top_1.PNG) |
+| ![img](images/top_2.PNG) |
+| ![img](images/top_3.PNG) |
+| ![img](images/top_4.PNG) |
